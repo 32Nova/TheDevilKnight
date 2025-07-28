@@ -1,0 +1,6 @@
+{
+  "name": "Sélecteur de Voix",
+  "description": "Une application web pour parcourir et écouter des dialogues de personnages. Les administrateurs peuvent ajouter de nouveaux personnages.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
